@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "tag4u.ussl.co.il",
+    "path": "/",
+    "name": "wordpress_logged_in_d4246e1ebd8885a6f82d3c43701a0a5a",
+    "value": "brickk1337%40gmail.com%7C1545653598%7Cl0A31LizPLCRY9qFZhl1MatCLtdfKFLKf6JnMHDhuRb%7C0722975d9ada04012307f6e0a1805cb11c08b9ee0a452de1713a33f0b8eb4363",
+    "expirationDate": 1545703998,
+    "hostOnly": true,
+    "httpOnly": true,
+    "secure": false,
+    "session": false,
+    "sameSite": "no_restriction"
+  }
+]

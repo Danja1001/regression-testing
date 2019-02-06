@@ -1,0 +1,16 @@
+{
+  "name": "send_tests_in_slack",
+  "version": "1.0.1",
+  "description": "Software, which sending every test in slack chat",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danja Podopryhora & Alex Yudaev",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^3.8.5",
+    "gulp": "^4.0.0",
+    "gulp-run": "^1.7.1"
+  }
+}
