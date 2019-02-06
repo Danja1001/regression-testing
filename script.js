@@ -2,8 +2,8 @@ var fs = require('fs');
 const { WebClient } = require('@slack/client');
 
 
-const token = 'xoxp-8388950070-379202530435-499134882391-5980621b4dae64f57c37a4fd8b948b2b';
-const conversationId = 'CEP6K7GCX';
+const token = 'your-token';
+const conversationId = 'your conversation id';
 
 
 var files = fs.readdirSync('backstop_data/bitmaps_reference/');
